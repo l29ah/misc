@@ -1,0 +1,15 @@
+evilvte
+	requires gtk
+	sometimes stops the output
+		https://bugzilla.gnome.org/show_bug.cgi?id=726235
+	slow
+urxvt
+	mouse is permanently borked after killing vim, reset(1) doesn't work
+xterm
+	can't select text between spaces with doubleclick
+st
+	mouse is permanently borked after killing vim, reset(1) doesn't work
+	doesn't provide a scrollback buffer
+konsole
+	pulls kde
+	positions characters from different fonts in a fucked up way

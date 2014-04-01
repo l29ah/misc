@@ -1,0 +1,45 @@
+tkabber
+	broken multiple-subkeys pgp support w/o a third-party patch
+	no otr support
+	bad support for multiple connections
+	slow
+	disabled tls by default
+	irresponsible developers
+	scrolls down log buffer on reconnect
+	hangs waiting for gpg-agent password request
+	slows down insanely after pasting a long text into the input buffer
+	requires restart to hook up a new DNS resolver configuration
+	xinerama- (or any runtime display geometry change) inaware tooltips
+	buggy metacontacts support
+psi+ (w/o webkit)
+	xml configs
+	opportunistic tls by default
+	eats up over 100Mb of RAM right after connecting
+	broken otr support (like in mcabber)
+	ignores roster groups for MUCs
+	fails to detect disconnects
+	broken multiple-subkeys pgp support w/o a third-party patch on QCA
+mcabber
+	no resources support, rendering encrypted communication w/ multiresource guys impossible
+	requires kludges to write multiline messages
+	can't send files
+	no multiaccount support
+	no in-band registration
+	stupid character limit per message
+	no XMPP transport registration
+pidgin
+	eats up tons of RAM and crawls if hit by a big userpic
+	WIMP-oriented
+	xml configs
+	basic xmpp features in 3-rd party plugins written by monkeycoders
+	several XEPs support neither can be implemented in plugins nor are accepted as patches for the core
+gajim
+	eats up tons of RAM and crawls if hit by a big userpic
+	very slow and singlethreaded design makes it even worse
+	Python
+jabber.el
+	no pgp and otr support
+	buggy shit
+	requires emacs OS
+vacuum
+	no pgp support
