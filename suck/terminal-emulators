@@ -13,3 +13,4 @@ st
 konsole
 	pulls kde
 	positions characters from different fonts in a fucked up way
+	treats empty space after newline as spaces during selection/copying
