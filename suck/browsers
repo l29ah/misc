@@ -1,0 +1,8 @@
+firefox
+	creates a new window 10 seconds on x201
+	doesn't allow unix way customization
+	tranquility and vimperator are mutually incompatible
+webkit-gtk/uzbl
+	scales bitmap fonts
+dillo
+	lacks vi-like interface
