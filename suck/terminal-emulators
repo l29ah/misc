@@ -14,3 +14,4 @@ konsole
 	pulls kde
 	positions characters from different fonts in a fucked up way
 	treats empty space after a line ends as spaces during selection/copying
+	copying stuff sometimes misses symbols (todo/timed)
