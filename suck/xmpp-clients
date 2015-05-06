@@ -1,6 +1,5 @@
 tkabber
 	broken multiple-subkeys pgp support w/o a third-party patch
-	no otr support
 	bad support for multiple connections
 	slow
 	disabled tls by default
