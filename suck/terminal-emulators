@@ -15,3 +15,6 @@ konsole
 	positions characters from different fonts in a fucked up way
 	treats empty space after a line ends as spaces during selection/copying
 	copying stuff sometimes misses symbols (todo/timed)
+terminology
+	slow
+	comes with mandatory animations
