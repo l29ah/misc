@@ -3,13 +3,13 @@ tkabber
 	bad support for multiple connections
 	slow
 	disabled tls by default
-	irresponsible developers
 	scrolls down log buffer on reconnect
 	hangs waiting for gpg-agent password request
 	slows down insanely after pasting a long text into the input buffer
 	requires restart to hook up a new DNS resolver configuration
 	xinerama- (or any runtime display geometry change) inaware tooltips
 	buggy metacontacts support
+	tk window creation slows down X
 psi+ (w/o webkit)
 	xml configs
 	opportunistic tls by default
@@ -33,9 +33,9 @@ pidgin
 	basic xmpp features in 3-rd party plugins written by monkeycoders
 	several XEPs support neither can be implemented in plugins nor are accepted as patches for the core
 gajim
-	eats up tons of RAM and crawls if hit by a big userpic
-	very slow and singlethreaded design makes it even worse
-	Python
+	unusable with lots of bookmarks
+	bugged gnupg support
+	won't show the MUC's unread message count in the window title
 jabber.el
 	no pgp and otr support
 	buggy shit
