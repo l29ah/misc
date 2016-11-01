@@ -27,6 +27,8 @@ mcabber
 	stupid character limit per message
 	no XMPP transport registration
 pidgin
+	no priority support
+	otr plugin works poorly
 	eats up tons of RAM and crawls if hit by a big userpic
 	WIMP-oriented
 	xml configs
