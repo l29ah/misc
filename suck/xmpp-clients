@@ -10,6 +10,7 @@ tkabber
 	xinerama- (or any runtime display geometry change) inaware tooltips
 	buggy metacontacts support
 	tk window creation slows down X
+	no omemo
 psi+ (w/o webkit)
 	xml configs
 	opportunistic tls by default
@@ -28,12 +29,13 @@ mcabber
 	no XMPP transport registration
 pidgin
 	no priority support
-	otr plugin works poorly
+	otr plugin works poorly and silently drops messages
 	eats up tons of RAM and crawls if hit by a big userpic
 	WIMP-oriented
 	xml configs
 	basic xmpp features in 3-rd party plugins written by monkeycoders
 	several XEPs support neither can be implemented in plugins nor are accepted as patches for the core
+	omemo is horribly broken
 gajim
 	unusable with lots of bookmarks
 	bugged gnupg support
