@@ -1,8 +1,7 @@
 tkabber
-	broken multiple-subkeys pgp support w/o a third-party patch
 	bad support for multiple connections
 	slow
-	disabled tls by default
+	disabled tls by default (fixable via config file)
 	scrolls down log buffer on reconnect
 	hangs waiting for gpg-agent password request
 	slows down insanely after pasting a long text into the input buffer
@@ -11,6 +10,7 @@ tkabber
 	buggy metacontacts support
 	tk window creation slows down X
 	no omemo
+	no stream management
 psi+ (w/o webkit)
 	xml configs
 	opportunistic tls by default
