@@ -29,7 +29,7 @@ mcabber
 	no XMPP transport registration
 pidgin
 	no priority support
-	otr plugin works poorly and silently drops messages
+	otr plugin works poorly and silently drops messages (https://bugs.otr.im/plugins/pidgin-otr/issues/145)
 	eats up tons of RAM and crawls if hit by a big userpic
 	WIMP-oriented
 	xml configs
