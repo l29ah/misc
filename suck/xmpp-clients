@@ -8,7 +8,6 @@ tkabber
 	requires restart to hook up a new DNS resolver configuration
 	xinerama- (or any runtime display geometry change) inaware tooltips
 	buggy metacontacts support
-	tk window creation slows down X
 	no omemo
 	no stream management
 psi+ (w/o webkit)
