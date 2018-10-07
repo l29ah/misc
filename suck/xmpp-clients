@@ -37,7 +37,9 @@ pidgin
 	omemo is horribly broken
 gajim
 	unusable with lots of bookmarks
+		https://dump.bitcheese.net/files/naluriw/gajim-bookmarks.ogv
 	bugged gnupg support
+	no OTR
 	won't show the MUC's unread message count in the window title
 jabber.el
 	no pgp and otr support
