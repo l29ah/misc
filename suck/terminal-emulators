@@ -18,3 +18,7 @@ konsole
 terminology
 	slow
 	comes with mandatory animations
+alacritty
+	doesn't work on old video cards
+	doesn't force-paste using shift-middle click
+		https://github.com/jwilm/alacritty/issues/1298
