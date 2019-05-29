@@ -41,6 +41,7 @@ gajim
 	bugged gnupg support
 	no OTR
 	won't show the MUC's unread message count in the window title
+	consumes lots of battery power by continuously redrawing its windows
 jabber.el
 	no pgp and otr support
 	buggy shit
