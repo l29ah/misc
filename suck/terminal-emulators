@@ -6,7 +6,7 @@ evilvte
 urxvt
 	mouse is permanently borked after killing vim, reset(1) doesn't work
 xterm
-	everything is good on 349!
+	loses the buffer contents on shrinking the window
 st
 	mouse is permanently borked after killing vim, reset(1) doesn't work
 	doesn't provide a scrollback buffer
