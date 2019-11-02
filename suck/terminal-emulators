@@ -7,6 +7,7 @@ urxvt
 	mouse is permanently borked after killing vim, reset(1) doesn't work
 xterm
 	loses the buffer contents on shrinking the window
+	impossible to select more than a screenful of symbols
 st
 	mouse is permanently borked after killing vim, reset(1) doesn't work
 	doesn't provide a scrollback buffer
