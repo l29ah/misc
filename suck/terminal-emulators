@@ -22,7 +22,4 @@ terminology
 	comes with mandatory animations
 alacritty
 	doesn't work on old video cards
-	doesn't force-paste using shift-middle click
-		https://github.com/jwilm/alacritty/issues/1298
-	unable to copy tabs
-		https://github.com/jwilm/alacritty/pull/991
+	uses cargo
