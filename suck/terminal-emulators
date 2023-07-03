@@ -23,3 +23,9 @@ terminology
 alacritty
 	doesn't work on old video cards
 	uses cargo
+sakura
+	has no contrast palette option and the maintainer have rejected the PR adding the ability to customize it
+		https://code.launchpad.net/~kyleb/sakura/custom-palette/+merge/73968
+gnome-console
+	can't turn off the window decorations
+		https://tinystash.undef.im/il/3JPCpNWmkBqocJ655XXAQkmk7mQLyujTuAc557QfXRUH3gawnvA2iAQ7zXcuheF52NPGKWE6KTV2RVemkYqYjcph.png
