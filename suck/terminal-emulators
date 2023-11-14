@@ -12,6 +12,9 @@ xterm
 st
 	mouse is permanently borked after killing vim, reset(1) doesn't work
 	doesn't provide a scrollback buffer
+kitty
+	can't utilize bitmap fonts
+		https://sw.kovidgoyal.net/kitty/faq/#kitty-is-not-able-to-use-my-favorite-font
 konsole
 	pulls kde
 	positions characters from different fonts in a fucked up way
