@@ -10,6 +10,7 @@ tkabber
 	buggy metacontacts support
 	no omemo
 	no stream management
+	no MAM
 psi+ (w/o webkit)
 	xml configs
 	opportunistic tls by default
