@@ -19,6 +19,7 @@ psi+ (w/o webkit)
 	ignores roster groups for MUCs
 	fails to detect disconnects
 	broken multiple-subkeys pgp support w/o a third-party patch on QCA
+	no MAM: https://github.com/psi-im/psi/issues/62
 mcabber
 	no resources support, rendering encrypted communication w/ multiresource guys impossible
 	requires kludges to write multiline messages
