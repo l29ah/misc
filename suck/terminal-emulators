@@ -4,7 +4,8 @@ evilvte
 		https://bugzilla.gnome.org/show_bug.cgi?id=726235
 	slow
 urxvt
-	mouse is permanently borked after killing vim, reset(1) doesn't work
+	mouse is borked after killing vim, reset(1) doesn't work
+		fixed by `printf '\e[?1000l\e[?1002l\e[?1003l\e[?1004l\e[?1006l'`
 	unusual and unclear custom font substitution machinery
 xterm
 	loses the buffer contents on shrinking the window
